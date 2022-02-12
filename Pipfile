@@ -11,6 +11,7 @@ matplotlib = "*"
 seaborn = "*"
 black = "*"
 sklearn = "*"
+tqdm = "*"
 
 [dev-packages]
 
