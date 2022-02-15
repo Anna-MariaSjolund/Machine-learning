@@ -10,7 +10,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 black = "*"
-sklearn = "*"
+sklearn = "1.0"
 tqdm = "*"
 
 [dev-packages]
