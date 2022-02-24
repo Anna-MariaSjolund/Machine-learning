@@ -12,6 +12,7 @@ seaborn = "*"
 black = "*"
 sklearn = "1.0"
 tqdm = "*"
+tensorflow = "*"
 
 [dev-packages]
 
