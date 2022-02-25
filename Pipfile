@@ -13,6 +13,7 @@ black = "*"
 sklearn = "1.0"
 tqdm = "*"
 tensorflow = "*"
+opencv-python = "*"
 
 [dev-packages]
 
